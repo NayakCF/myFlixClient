@@ -1,0 +1,33 @@
+{
+    "name": "myflixstudio",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/nayakCF/myFlixClient.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/nayakCF/myFlixClient/issues"
+    },
+    "homepage": "https://github.com/nayakCF/myFlixClient#readme",
+    "dependencies": {
+      "axios": "^0.26.1",
+      "prop-types": "^15.8.1",
+      "react": "^17.0.2",
+      "react-bootstrap": "^2.2.3",
+      "react-dom": "^17.0.2",
+      "react-redux": "^8.0.1",
+      "react-router-dom": "^5.3.1",
+      "redux": "4.1",
+      "redux-devtools-extension": "^2.13.9"
+    },
+    "devDependencies": {
+      "@parcel/transformer-sass": "^2.0.0-rc.0"
+    }
+  }
